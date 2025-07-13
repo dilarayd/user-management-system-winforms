@@ -1,0 +1,50 @@
+# Visual Studio / Rider
+.vs/
+*.suo
+*.user
+*.pdb
+*.tmp
+*.log
+*.obj
+*.o
+*.exe
+*.dll
+*.com
+*.lib
+*.ncb
+*.sdf
+*.tlog
+*.idb
+*.aps
+*.bak
+*.pgd
+*.pch
+*.ipch
+*.resharper
+*.userprefs
+*.sync
+*.njsproj
+*.sln.docstates
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Tt]emp/
+[Rr]esult/
+[Tt]estResults/
+*.out
+*.err
+*.cache
+
+# NuGet
+*.nupkg
+packages/
+*.nuget.log
+
+# Mac specific files
+.DS_Store
+
+# Other common files
+Thumbs.db
